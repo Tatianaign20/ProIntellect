@@ -1,17 +1,10 @@
 import React from "react";
 import './Form.css'
-import { Input } from "../../comps/Input/Input";
 
 export const Form = () => {
 
     return (
       <>
-      {/* <form className={"form"}>
-        <Input />
-        <Input />
-        <Input />
-        <Input />
-      </form> */}
             <div className={"form_container"}>
             <div className={"form"}>
         <script src="https://forms.yandex.ru/_static/embed.js"></script>
