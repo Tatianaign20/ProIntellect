@@ -1,1 +1,1 @@
-https://Tatianaign20.github.io/ProIntellect 
+https://pro-intellect.vercel.app/ 
