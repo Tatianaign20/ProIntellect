@@ -32,8 +32,8 @@ export const Main = () => {
             </ul>
           </div>
           <div>
-            {/* <img src="./public/int3.jpg" className="main_img" alt="ИИ изображение" /> */}
-            <img src="https://mgorv.ru/assets/cache/images/mgorv/images/2022/08/17/0_1_1660718475.968f9213.jpg" className="main_img" alt="ИИ изображение" />
+            {/* <img src="./src/assets/int3.jpg" className="main_img" alt="ИИ изображение" /> */}
+            <img src="https://magnitoterapiya.ru/wp-content/uploads/2020/10/9.jpg" className="main_img" alt="ИИ изображение" />
           </div>
         </div>
         <div className="main_block_three_blocks">
