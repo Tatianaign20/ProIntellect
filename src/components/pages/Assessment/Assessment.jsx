@@ -3,8 +3,13 @@ import { Form } from "../../comps/Form/Form";
 import { Head } from "../../views/global/Head/Head";
 import { Foot } from "../../views/global/Foot/Foot";
 import './Assessment.css'
+import { useEffect } from "react";
 
 export const Assessment = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  })
+
   return (
     <>
       <Head />

@@ -1,9 +1,13 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./Examples.css";
 import { Head } from "../../views/global/Head/Head";
 import { Foot } from "../../views/global/Foot/Foot";
 
 export const Examples = () => {
+useEffect(() => {
+  window.scrollTo(0, 0);
+})
+
   return (
     <>
       <Head />
