@@ -44,9 +44,9 @@ export const Main = () => {
             <li className="main_list_item light_blue">Оценка стоимости квартир</li>
           </ul>
           <p>Сроки реализации проекта зависят от целей и задач проекта.</p>
-          <a href="/examples" className="main_content_link">
+          <Link to="/examples" className="main_content_link">
             Примеры постановки задач
-          </a>
+          </Link>
         </div>
         <div className="main_block_two_blocks">
           <div className="main_block-container">
