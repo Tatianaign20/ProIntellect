@@ -49,3 +49,8 @@
     color: #BFC0C0;
 }
 
+@media screen and (max-width: 361px) {
+    .footer {
+        width: 360px;
+    }
+}

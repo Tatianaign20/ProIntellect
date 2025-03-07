@@ -17,3 +17,10 @@
     color: #333;
     margin-bottom: 20px;
   }
+
+  @media screen and (max-width: 361px) {
+    .assessment_description {
+      width: 290px;
+      margin: 40px 20px;
+    }
+  }

@@ -13,7 +13,7 @@ export const Form = () => {
           frameborder="0" 
           name="ya-form-67c8743beb6146a3bfa59742" 
           width="650" 
-          height="1700">
+          height="1900" className={"ya-form-iframe"}>
         </iframe>
       </div>
       </div>

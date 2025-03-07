@@ -20,7 +20,7 @@ export const Main = () => {
         <div className="main_block_img">
           <div>
             <h2 className="block-header">Преимущества ИИ</h2>
-            <ul className="main_list">
+            <ul className="main_list main_list_img_block">
               <li>Решает задачи, которые не могли решить раньше</li>
               <li>Поднимает престиж компании</li>
               <li>Повышает конкурентоспособность</li>

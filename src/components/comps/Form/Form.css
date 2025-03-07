@@ -16,3 +16,16 @@
     height: 1700px;
 }
 
+@media screen and (max-width: 361px) {
+    .form {
+        width: 360px;
+    }
+    .ya-form-iframe {
+        width: 340px;
+    }
+
+    .form_container {
+        height: 1900px;
+    }
+}
+
