@@ -61,7 +61,7 @@ export const Main = () => {
               <li>Поддержка</li>
             </ul>
           </div>
-          <div>
+          <div className="main_block-container_work">
             <div className="main_block-container">
               <h2 className="block-header">Состав работ</h2>
               <ul className="main_list">
