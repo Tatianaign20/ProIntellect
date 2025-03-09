@@ -12,7 +12,7 @@ export const Form = () => {
           src="https://forms.yandex.ru/u/67c8743beb6146a3bfa59742/?iframe=1" 
           frameborder="0" 
           name="ya-form-67c8743beb6146a3bfa59742" 
-          width="650" 
+          width="700" 
           height="1900" className={"ya-form-iframe"}>
         </iframe>
       </div>
