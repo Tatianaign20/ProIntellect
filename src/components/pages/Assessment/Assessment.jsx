@@ -15,8 +15,8 @@ export const Assessment = () => {
     <div className="assessment_container">
       <Head />
       <div className="assessment">
-      <div className={"assessment_description"}>
-        <h2 className={"assessment_block-header"}>Оценка проекта</h2>
+      <div className="assessment_description">
+        <h2 className="assessment_block-header">Оценка проекта</h2>
          <span>В данной  форме, для лучшего контакта с потенциальным заказчиком, лучшего понимания, а так же для предварительной подготовке ко встрече, всю информацию нужно описывать максимально подробно.</span>
        </div> 
       <Form />

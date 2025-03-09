@@ -6,7 +6,6 @@
     position: relative;
     max-width: 1200px;
     margin: 40px auto;
-    /* padding: 20px; */
     gap: 20px;
 }
 
@@ -43,8 +42,6 @@
     position: relative;
     margin: 0px 20px;
     gap: 5px;
-    /* max-width: 500px;
-    min-width: 300px; */
   }
 
   .examples_list li {
